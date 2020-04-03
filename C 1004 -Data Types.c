@@ -37,7 +37,7 @@ int main(int argc, char const *argv[])
      
     printf("Enter the value of x:\n");
     scanf("%lf", &x);
-    printf("The value of c is: %f\n", x);
+    printf("The value of x is: %f\n", x);
      
     
   return 0;
