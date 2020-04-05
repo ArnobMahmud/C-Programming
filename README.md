@@ -2,22 +2,16 @@
 
 C/C++ Problem Solution by Arnob Mahmud. C/C++ Programmings basic lebel to expart boot.
 
-# C/C++ Programming Live Share Docs & Feedback
+# C/C++ Programming Live Share & Feedback
 
 <table style="width: 100%; border-style: none;"><tr>
-<td style="width: 140px; text-align: center;"><a href="https://aka.ms/vsls"><img width="128px" src="docs/media/vsls-icon.svg" alt="Visual Studio Live Share logo"/></a></td>
+<td style="width: 140px; text-align: center;"><a href="https://github.com/ArnobMahmud/C-Programming"><img width="128px" src="https://steemitimages.com/DQmSGVJm5LwPubSDdfZRh1ZuBBmpwfTcoq5fivyog9cPDNh/image.png" alt="C++ Logo"/></a></td>
 <td>
 <strong>C/C++ Programming Live Share</strong><br />
 <i>Enabling developers to achieve greater confidence at speed by streamlining collaboration in real-time during development.<br />
 <strong><a href="https://github.com/ArnobMahmud">Learn more!</a></strong></i>
 </td>
 </tr></table>
-
-Many Visual Follow Contributor by bottom links :](https://aka.ms/vsls-docs/platform-support) and note more will be coming in the future.
-
-[![Twitter](docs/media/Twitter_Social_Icon_24x24.png)](https://www.twitter.com/Arnob__Mahmud) [![Mail](docs/media/icon-mail-24x24.png)](mailto:arnob.tech.me@gmail.com)
-
-
 
 # Citizen Code of Conduct
 
