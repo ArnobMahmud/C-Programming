@@ -4,7 +4,7 @@ C/C++ Problem Solution by Arnob Mahmud. C/C++ Programmings basic lebel to expart
 
 <!-- Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
-Stay Connected With Arnob Mahmud :  
+Stay Connected With Arnob Mahmud:  
 
 ![alt text][2.1]
 ![alt text][1.1]
