@@ -16,10 +16,10 @@ Stay Connected With Arnob Mahmud :
 [3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
 [6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
-[2]: http://www.facebook.com/arnob.mahmud.am
-[1]: http://www.twitter.com/Arnob__Mahmud
-[3]: https://plus.google.com/+ArnobMahmudAM
-[6]: http://www.github.com/ArnobMahmud
+[2.1]: http://www.facebook.com/arnob.mahmud.am
+[1.1]: http://www.twitter.com/Arnob__Mahmud
+[3.1]: https://plus.google.com/+ArnobMahmudAM
+[6.1]: http://www.github.com/ArnobMahmud
 
 # C/C++ Programming Live Share & Feedback
 
