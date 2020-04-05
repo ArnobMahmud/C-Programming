@@ -1,6 +1,6 @@
 # C-Programming
 
-C/C++ URI Online Problems Solution by Arnob Mahmud. C/C++ Programmings basic lebel to expart boot.
+C/C++ Problem Solution by Arnob Mahmud. C/C++ Programmings basic lebel to expart boot.
 
 
 # Citizen Code of Conduct
