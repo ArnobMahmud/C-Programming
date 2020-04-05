@@ -2,6 +2,22 @@
 
 C/C++ Problem Solution by Arnob Mahmud. C/C++ Programmings basic lebel to expart boot.
 
+# C/C++ Programming Live Share Docs & Feedback
+
+<table style="width: 100%; border-style: none;"><tr>
+<td style="width: 140px; text-align: center;"><a href="https://aka.ms/vsls"><img width="128px" src="docs/media/vsls-icon.svg" alt="Visual Studio Live Share logo"/></a></td>
+<td>
+<strong>C/C++ Programming Live Share</strong><br />
+<i>Enabling developers to achieve greater confidence at speed by streamlining collaboration in real-time during development.<br />
+<strong><a href="https://github.com/ArnobMahmud">Learn more!</a></strong></i>
+</td>
+</tr></table>
+
+Many Visual Follow Contributor by bottom links :](https://aka.ms/vsls-docs/platform-support) and note more will be coming in the future.
+
+[![Twitter](docs/media/Twitter_Social_Icon_24x24.png)](https://www.twitter.com/Arnob__Mahmud) [![Mail](docs/media/icon-mail-24x24.png)](mailto:arnob.tech.me@gmail.com)
+
+
 
 # Citizen Code of Conduct
 
@@ -63,7 +79,7 @@ If a community member engages in unacceptable behavior, the community organizers
 ## 7. Reporting Guidelines
 
 If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. arnob.tech.me@gmail.com.
-
+I
 
 
 Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
