@@ -5,7 +5,6 @@
 */
 
 #include <stdio.h>
-#include <conio.h>
 #define  SPACE 5
 
 int stack[SPACE];
@@ -14,6 +13,7 @@ int top = -1;
 void push(int x) {
   if ( top < SPACE -1 ) {
     top += 1;
+    stack[top] = x;
     printf("Placement successful! Value added : %d\n", x);
   }
   else {
