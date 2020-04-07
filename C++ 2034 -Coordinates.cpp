@@ -36,7 +36,7 @@ int main(int argc, char const *argv[]) {
     std::cout << "\nQ4" << '\n';
   }
   else {
-  std::cout << "\nOrigem" << '\n';
+  std::cout << "\nOrigin" << '\n';
   }
 
   return 0;
