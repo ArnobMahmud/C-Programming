@@ -18,10 +18,10 @@ int main(int argc, char const *argv[]) {
   std::cin >> y ;
 
   if ( y == 0){
-    std::cout << "\nEixo 'X' " << '\n';
+    std::cout << "\nIt's 'X' axis " << '\n';
   }
   else if ( x == 0) {
-    std::cout << "\nEixo 'Y'" << '\n';
+    std::cout << "\nIt's 'Y' axis " << '\n';
   }
   else if( x > 0 && y > 0) {
     std::cout << "\nQ1" << '\n';
