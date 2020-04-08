@@ -2,6 +2,10 @@
 
 C/C++ Problem Solution by Arnob Mahmud. C/C++ Programmings basic lebel to expart boot.
 
+[![Powered by You](http://sapegin.github.io/powered-by-you/badge.svg)](http://sapegin.github.io/powered-by-you/)
+[![Build Status](https://travis-ci.org/sapegin/social-likes.svg)](https://travis-ci.org/sapegin/social-likes)
+
+
 <!-- Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 Stay Connected With Arnob Mahmud:  
