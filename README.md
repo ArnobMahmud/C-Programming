@@ -46,11 +46,11 @@ Stay Connected With Arnob Mahmud :
 # C/C++ Programming Live Share & Feedback
 
 <table style="width: 300%; border-style: none;"><tr>
-<td style="width: 1300px; text-align: center;"><a href="https://github.com/ArnobMahmud/C-Programming"><img width="390px" src="https://steemitimages.com/DQmSGVJm5LwPubSDdfZRh1ZuBBmpwfTcoq5fivyog9cPDNh/image.png" alt="C++ Logo"/></a></td>
+<td style="width: 1300px; text-align: center;"><a href="https://www.facebook.com/sharer.php?u=YOUR_URL_HERE"><img width="390px" src="https://steemitimages.com/DQmSGVJm5LwPubSDdfZRh1ZuBBmpwfTcoq5fivyog9cPDNh/image.png" alt="C++ Logo"/></a></td>
 <td>
 <strong>C/C++ Programming Live Share</strong><br />
 <i>Enabling developers to achieve greater confidence at speed by streamlining collaboration in real-time during development.<br />
-<strong>https://www.facebook.com/sharer.php?u=YOUR_URL_HERE</strong></i>
+<strong></strong></i>
 </td>
 </tr></table>
 
