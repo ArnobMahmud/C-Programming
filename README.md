@@ -50,7 +50,7 @@ Stay Connected With Arnob Mahmud :
 <td>
 <strong>C/C++ Programming Live Share</strong><br />
 <i>Enabling developers to achieve greater confidence at speed by streamlining collaboration in real-time during development.<br />
-<strong><a href="https://github.com/ArnobMahmud">Learn more!</a></strong></i>
+<strong>https://www.facebook.com/sharer.php?u=YOUR_URL_HERE</strong></i>
 </td>
 </tr></table>
 
