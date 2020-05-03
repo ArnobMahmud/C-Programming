@@ -12,9 +12,9 @@ int main(int argc, char const *argv[])
 	
 	int i, j;
 
-    for (i=1; i<=10 ; i++) {
+        for (i=1; i<=10 ; i++) {
 
-        for(j = i; j <= 10; j++) {
+            for(j = i; j <= 10; j++) {
 
             printf("*");                       
 
@@ -25,6 +25,6 @@ int main(int argc, char const *argv[])
 
     getch();
 
-  return 0;
+    return 0;
 
 }
