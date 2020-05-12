@@ -23,7 +23,7 @@
 
             if ( x != 0) {
 
-
+ 
         z = x/y;
 
         printf("The sum is:%.4f", z);
