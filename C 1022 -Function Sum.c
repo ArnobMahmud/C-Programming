@@ -6,29 +6,30 @@
 
 #include <stdio.h>
 #include <math.h>
+#include <conio.h>
 
 float add_sum(float x, float y) {
 
 	  int add_result = x + y;
-    return add_result;
+          return add_result;
 }
 
 float subtract_sum(float x, float y) {
 
   	float subtract_result = x - y;
-    return subtract_result;
+        return subtract_result;
 }
 
 float multiply_sum(float x, float y) {
 
 	  float multiply_result = x * y;
-    return multiply_result;
+          return multiply_result;
 }
 
 float divide_sum(float x, float y) {
 
 	  float divide_result = x / y;
-    return divide_result;
+          return divide_result;
 }
 
 int main(int argc, char const *argv[]) {
@@ -49,7 +50,8 @@ int main(int argc, char const *argv[]) {
 
     float divide_result = divide_sum(x, y);
     printf("Divide result is :%2.4f\n", divide_result);
-
-	return 0;
+    
+    getch();
+    return 0;
 
 }
