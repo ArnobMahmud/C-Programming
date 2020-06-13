@@ -9,7 +9,7 @@
 
 int main(int argc, char const *argv[]) {
 
-  int *p;
+  int *p;   //pointer define
   p = (int*)calloc(8, sizeof(int));
 
   if (p == NULL) {
