@@ -1,12 +1,17 @@
 /*
- * C Program to Implement Selection Sort
- */
+    Author : Arnob Mahmud
+
+    Mail : arnob.tech.me@gmail.com
+*/
+
 #include <stdio.h>
+
 void selectionSort(int arr[], int size);
 void swap(int *a, int *b);
+
 /*
- * Selection sort function
- */
+    Selection sort function
+*/
 void selectionSort(int arr[], int size)
 {
     int i, j;
@@ -19,7 +24,9 @@ void selectionSort(int arr[], int size)
         }
     }
 }
+
 /* Function to swap two variables */
+
 void swap(int *a, int *b)
 {
     int temp;
@@ -27,21 +34,28 @@ void swap(int *a, int *b)
     *a = *b;
     *b = temp;
 }
+
 /*
- * Main Function
- */
+    Main Function
+*/
+
 int main()
 {
     int array[10], i, size;
+
     printf("How many numbers you want to sort:  ");
     scanf("%d", &size);
+
     printf("\nEnter %d numbers\t", size);
     printf("\n");
+
     for (i = 0; i < size; i++)
         scanf("%d", &array[i]);
     selectionSort(array, size);
     printf("\nSorted array is ");
+
     for (i = 0; i < size;i++)
         printf(" %d ", array[i]);
+
     return 0;
 }
