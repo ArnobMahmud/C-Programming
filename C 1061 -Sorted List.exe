@@ -1,0 +1,2 @@
+$ gcc quicksort.c -o quicksort
+$ ./quicksort
