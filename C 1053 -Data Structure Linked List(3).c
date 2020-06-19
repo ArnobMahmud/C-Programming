@@ -14,6 +14,7 @@ void push(int x) {
   if ( top < SPACE -1 ) {
     top += 1;
     stack[top] = x;
+
     printf("Placement successful! Value added : %d\n", x);
   }
   else {
