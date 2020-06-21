@@ -10,20 +10,25 @@
 int main(int argc, char const *argv[])
 {
 	
-	int i, sum = 0;
+	int i, n, sum = 0;
+        
+        printf("Enter ending value");
+        scanf("%d", &n);
 
-    for ( i =1; i<=100; i++ ) {
+        for ( i =7; i <= n; i++ ) {
 
-        if ( i % 2 == 0 && i % 5 == 0) {               
+        if ( i % 2 == 0) {               
 
             sum = sum + i;
+            
+            }
+
+         printf("%d", i);
 
         }
 
-    }
-
-    printf( "The value of sum is:%d", sum);
-
+        printf( "The value of sum is:%d", sum);
+  
 	return 0;
 
 }
