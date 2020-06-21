@@ -12,7 +12,7 @@ int main(int argc, char const *argv[])
 	
 	int i, n, sum = 0;
         
-        printf("Enter ending value");
+        printf("Enter ending value : ");
         scanf("%d", &n);
 
         for ( i =7; i <= n; i++ ) {
