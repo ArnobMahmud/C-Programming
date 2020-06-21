@@ -20,10 +20,10 @@ int main(int argc, char const *argv[])
         if ( i % 2 == 0) {               
 
             sum = sum + i;
-            
-            }
 
-         printf("%d", i);
+            printf("%d", i);
+
+            }
 
         }
 
