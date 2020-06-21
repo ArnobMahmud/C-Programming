@@ -2,10 +2,10 @@
      Author : Arnob Mahmud
 
      Mail : arnob.tech.me @ gmail.com
- */
+*/
 
 #include <stdio.h>
-#include <conio.h>
+#include <math.h>
 
 int main(int argc, char const *argv[])
 {
@@ -21,13 +21,13 @@ int main(int argc, char const *argv[])
 
             sum = sum + i;
 
-            printf("%d", i);
+            printf(" %d\n", i);
 
             }
 
         }
 
-        printf( "The value of sum is:%d", sum);
+        printf( "The value of sum is: %d\n", sum);
   
 	return 0;
 
