@@ -6,16 +6,19 @@
 
 #include<bits/stdc++.h>
 using namespace std;
-class student{
+
+class Student{
 public :
+
     int id;
     double cgpa;
 
     void display()
     {
-        std::cout << id << " " << cgpa << "\n";
+        cout << id << " " << cgpa << "\n";
     }
-    student(int x, double y)
+    Student(int x, double y)            // constructor is one kind of method which name is exactly class name
+                                        // constructor has no return type, even void() can't be it's return type.
     {
         id = x;
         cgpa = y;
@@ -24,11 +27,8 @@ public :
 
 int main(int argc, char* argv[]) {
 
-   student arnob(101, 3.70);
+   Student arnob(47, 3.70);
    arnob.display();
-
-   student araf(102, 3.60);
-   araf.display();
 
    return 0;
 }
