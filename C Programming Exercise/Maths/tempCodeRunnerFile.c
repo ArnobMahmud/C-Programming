@@ -2,8 +2,7 @@
 #include <math.h>
 #define PI 3.142
 
-double convert(double radian)
-{
+double convert(double radian){
      return(radian * ( 180 / PI));
 }
 
@@ -44,7 +43,7 @@ int main(int argc, char const *argv[])
     }
     else
     {
-        value = tan(x * n * PI);
+        value = tan(x * PI);
         printf("The Tangent of %.3lf is %lf", x, value);
     }
         break;
