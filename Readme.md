@@ -1,30 +1,16 @@
 # C-Programming
 
-C/C++ Problem Solution by Arnob Mahmud. C/C++ Programmings basic lebel to expart boot.
+[![](https://img.shields.io/badge/License-MIT-critical?style=plastic&logo=appveyor)](https://github.com/ArnobMahmud/C-Programming/blob/master/MIT%20License) &nbsp;&nbsp; 
+[![develop-with-arnob](https://img.shields.io/badge/Develop%20with-Arnob%20Mahmud-1f425f.svg?style=plastic&logo=visual-studio-code&logoColor=007ACC&labelColor=lightgreen)](https://github.com/ArnobMahmud/) &nbsp;&nbsp;
+[![made-with-java](https://img.shields.io/badge/Made%20with-C-1f425f.svg?style=plastic&logo=c++&color=blueviolet&logoColor=00599C&labelColor=292844)](https://en.wikipedia.org/wiki/C_(programming_language))
 
-[![Powered by You](http://sapegin.github.io/powered-by-you/badge.svg)](http://sapegin.github.io/powered-by-you/)
-[![Build Status](https://travis-ci.org/sapegin/social-likes.svg)](https://travis-ci.org/sapegin/social-likes)
+<h4> <b> C/C++ Problem Solution by Arnob Mahmud. C/C++ Programmings basic lebel to expart boot (including OOP).  </b></h4>
 
-Stay Connected With Arnob Mahmud :
+![code](https://user-images.githubusercontent.com/60808266/111033256-77559880-843a-11eb-92f2-f39365a0fb16.png)
 
-[![alt text][2.1]][2]
-[![alt text][1.1]][1]
-[![alt text][3.1]][3]
-[![alt text][6.1]][6]
 
-<!-- icons with padding -->
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?style=plastic&logo=home-assistant)](https://m.me/arnob.mahmud.am/) &nbsp;&nbsp;
 
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- links to social media accounts -->
-
-[2]: http://www.facebook.com/arnob.mahmud.am
-[1]: http://www.twitter.com/@Arnob__Mahmud
-[3]: https://plus.google.com/+ArnobMahmudAM
-[6]: http://www.github.com/ArnobMahmud
 
 # C/C++ Programming Live Share & Feedback
 
