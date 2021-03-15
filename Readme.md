@@ -1,13 +1,37 @@
 # C-Programming
 
-[![](https://img.shields.io/badge/License-MIT-critical?style=plastic&logo=appveyor)](https://github.com/ArnobMahmud/C-Programming/blob/master/MIT%20License) &nbsp;&nbsp; 
-[![develop-with-arnob](https://img.shields.io/badge/Develop%20with-Arnob%20Mahmud-1f425f.svg?style=plastic&logo=visual-studio-code&logoColor=007ACC&labelColor=lightgreen)](https://github.com/ArnobMahmud/) &nbsp;&nbsp;
-[![made-with-java](https://img.shields.io/badge/Made%20with-C-1f425f.svg?style=plastic&logo=c++&color=blueviolet&logoColor=00599C&labelColor=292844)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![](https://img.shields.io/badge/License-MIT-critical?style=plastic&logo=appveyor)](https://github.com/ArnobMahmud/C-Programming/blob/master/MIT%20License)&nbsp;
+[![develop-with-arnob](https://img.shields.io/badge/Develop%20with-Arnob%20Mahmud-1f425f.svg?style=plastic&logo=visual-studio-code&logoColor=007ACC&labelColor=lightgreen)](https://github.com/ArnobMahmud/)&nbsp;
+[![made-with-c](https://img.shields.io/badge/Made%20with-C-1f425f.svg?style=plastic&logo=c&color=17394A&logoColor=073551&labelColor=EEEEEE)](https://en.wikipedia.org/wiki/C_(programming_language))
 
 <h4> <b> C/C++ Problem Solution by Arnob Mahmud. C/C++ Programmings basic lebel to expart boot (including OOP).  </b></h4>
 
-![code](https://user-images.githubusercontent.com/60808266/111033256-77559880-843a-11eb-92f2-f39365a0fb16.png)
+### **Topics analyzed 👍🏻**
+- **Intro**
+- **Syntax**
+- **Data Types**
+- **Conditions**
+- **Loops**
+- **Maths**
+- **Function**
+- **Pointer**
+- **String**
+- **Linked List**
+- **OOP**
+  - **Class**
+  - **Objects**
+  - **Method**
+  - **Constructor**
+  - **Encapsulation**
+  - **Inheritance**
+  - **Abstraction** 
+  - **Polymorphism**
+- **File Handling**
+- **Exceptions Handling**
 
+### _Collab with_ @ArnobMahmud 
+
+![code](https://user-images.githubusercontent.com/60808266/111102397-35317180-8576-11eb-895f-2da762ec8b7c.png)
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?style=plastic&logo=home-assistant)](https://m.me/arnob.mahmud.am/) &nbsp;&nbsp;
 
